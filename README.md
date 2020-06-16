@@ -19,9 +19,9 @@ Os arquivos de entrada e de saída devem seguir exatamente os formatos especific
 * [X] Implementação da função cadastrarAluno
 * [X] Implementação da função buscarAluno
 * [X] Implementação da função lerArquivo
-* [X] Implementação da função gerarArquivoAlunosAprovados
-* [X] Implementação da função gerarArquivoAlunosReprovados
-* [X] Implementação da função fecharPrograma
+* [] Implementação da função gerarArquivoAlunosAprovados
+* [] Implementação da função gerarArquivoAlunosReprovados
+* [] Implementação da função fecharPrograma
 
 <br />
 
@@ -31,10 +31,10 @@ Cada aluno da disciplina possui armazenadas as seguintes informações:
 
 * **Nome:** (cujos caracteres não devem incluir acentos e cedilhas);
 * **RA:** (inteiro);
-* **P1:**Nota da primeira prova obrigatória;
-* **P2:**Nota da segunda prova obrigatória;
-* **T:**Nota do trabalho prático;
-* **PO:**Nota da prova optativa.
+* **P1:** Nota da primeira prova obrigatória;
+* **P2:** Nota da segunda prova obrigatória;
+* **T:** Nota do trabalho prático;
+* **PO:** Nota da prova optativa.
 
 Todas as notas devem ser representadas usando números em ponto flutuante. A média final MF é calculada de acordo com a seguinte fórmula: **MF = 0,35 * P1 + 0,35 * P2 + 0,3 * T**
 
