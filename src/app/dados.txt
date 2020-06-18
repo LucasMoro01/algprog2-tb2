@@ -1,0 +1,6 @@
+Lucas 1 1 1 1 1
+Lucas Moro 10 10 10 10 10
+Mateus 5 5 5 5 5
+Jose 6 6 6 6 6
+Amanda 8 8 8 8 8
+Fabio 44 4 8 8 10
