@@ -1,6 +1,12 @@
 # algprog2-tb2
 O trabalho prático consiste na implementação de um sistema para gerenciamento de alunos da disciplina de Algoritmos e Programação II
 
+## Como rodar o projeto
+No terminal:
+- Entre no diretório dos arquivos: **cd algprog2-tb2\src\app**
+- Compile os arquivos: **g++ Aluno.h FuncoesAuxiliares.h FuncoesAuxiliares.cpp FuncoesPrincipais.cpp Main.cpp -o app**
+- Rode o app: **.\app.exe**
+
 **Observações:**
   * Arquitetura do projeto:
     * `src/arquivos`: Classes auxiliares
