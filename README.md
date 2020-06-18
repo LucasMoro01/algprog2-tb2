@@ -19,9 +19,9 @@ Os arquivos de entrada e de saída devem seguir exatamente os formatos especific
 * [X] Implementação da função cadastrarAluno
 * [X] Implementação da função buscarAluno
 * [X] Implementação da função lerArquivo
-* [] Implementação da função gerarArquivoAlunosAprovados
-* [] Implementação da função gerarArquivoAlunosReprovados
-* [] Implementação da função fecharPrograma
+* [X] Implementação da função gerarArquivoAlunosAprovados
+* [X] Implementação da função gerarArquivoAlunosReprovados
+* [X] Implementação da função fecharPrograma
 
 <br />
 
