@@ -9,12 +9,11 @@ No terminal:
 
 **Observações:**
   * Arquitetura do projeto:
-    * `src/arquivos`: Classes auxiliares
+    * `src/app`: Todos arquivos 
       * `Aluno.h`: Estrutura de classe Aluno
       * `FuncoesAuxiliares.h`: Importações e prototipações
       * `FuncoesAuxiliares.cpp`: Funções auxiliares
       * `FuncoesPrincipais.cpp`: Funções principais
-    * `src/app`: Classe principal do programa
       * `Maincpp`: Executa toda a aplicação
 
 **Critérios de avaliação:** Seu trabalho será avaliado de acordo com a correção na implementação das estruturas e funções criadas, funcionamento correto dos algoritmos implementados, formatos de entrada e saída conforme descritos.
@@ -80,6 +79,6 @@ Os arquivos de entrada para as opções que envolvem leitura de arquivo possuem 
 
 ## Formato do aquivo de saída
 Os arquivos de saída para as opções que envolvem escrita em arquivo devem possuir uma linha por aluno. Cada linha possui dados para as informações solicitadas (nome e média final com uma casa decimal). Os campos que devem ser escritos são APENAS os listados na Seção 1 e na MESMA ordem da descrição. Ao final, deve aparecer a linha com a contagem seguindo o formato:
-* **Total: cont**
+* **Total: cont**;
 Na qual cont é o número de alunos aprovados ou reprovados, de acordo com a opção escolhida.
 Ao final de cada linha, deve ser colocado o caractere de nova linha.
